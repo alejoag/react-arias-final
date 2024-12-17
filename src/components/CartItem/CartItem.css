@@ -1,0 +1,32 @@
+.CardCart {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    padding: 20px;
+    margin: 30px;
+    font-size: 16px;
+    border: 2px solid brown;
+    border-radius: 10px;
+}
+
+.InfoCart {
+    margin-right: 50px;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ContainerItemCart {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.ItemHeaderCart {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ItemFooterCart {
+    display: flex;
+}

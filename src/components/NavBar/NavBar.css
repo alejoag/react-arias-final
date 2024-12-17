@@ -1,0 +1,39 @@
+.Option {
+    color:brown ;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0 50px;
+    width: auto;
+    padding: 12px;
+    font-size: 15px;
+    flex: none;
+    display: flex;
+    order: 1;
+    align-self: center;
+    flex-grow: 0;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+
+  }
+  
+  .ActiveOption {
+    color:brown ;
+    font-weight: 500;
+    text-decoration: underline 2px;
+    text-transform: uppercase;
+    border-radius: 25;
+    margin: 0 50px;
+    width: auto;
+    padding: 12px;
+    font-size: 15px;
+    flex: none;
+    display: flex;
+    order: 1;
+    align-self: center;
+    flex-grow: 0;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
